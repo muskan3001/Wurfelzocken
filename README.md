@@ -16,7 +16,7 @@
 <img src="https://github.com/muskan3001/Wurfelzocken/blob/main/SS3.png" width="50%" alt="Screenshot 3" />
 
  <h3>Enjoy The Game</h3>
-    Game Link: 
+    Game Link: https://muskan3001.github.io/Wurfelzocken/
     <br>
     Contributors:  <a href="https://github.com/muskan3001">Muskan Gulati</a> & <a href="https://github.com/kanishths">Kanishtha Siyaram</a> 
    
