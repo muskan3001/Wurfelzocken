@@ -11,6 +11,10 @@
       continue until one of the player scores a century. (100)
     </p>
 
+<img src="https://github.com/muskan3001/Wurfelzocken/blob/main/SS1.png" width="50%" alt="Screenshot 1" /> 
+<img src="https://github.com/muskan3001/Wurfelzocken/blob/main/SS2.png" width="50%" alt="Screenshot 2"/> 
+<img src="https://github.com/muskan3001/Wurfelzocken/blob/main/SS3.png" width="50%" alt="Screenshot 3" />
+
  <h3>Enjoy The Game</h3>
     Game Link: 
     <br>
