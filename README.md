@@ -18,7 +18,6 @@
  <h3>Enjoy The Game</h3>
     Game Link: https://muskan3001.github.io/Wurfelzocken/
     <br>
-    Contributors:  <a href="https://github.com/muskan3001">Muskan Gulati</a> & <a href="https://github.com/kanishths">Kanishtha Siyaram</a> 
    
     
  <h3>Tech Used: </h3>
